@@ -1,0 +1,6 @@
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItLexer.cs
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItParser.cs
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItParserListener.cs
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItParserBaseListener.cs
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItParserVisitor.cs
+C:\Users\ragde\OneDrive\Desktop\Programming\BldIt\BldIt.Language\src\BldIt.Lang\obj\Debug\net6.0\BldItParserBaseVisitor.cs
